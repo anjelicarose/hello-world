@@ -1,2 +1,3 @@
 # hello-world
-Learning GitH
+Learning GitHub
+I am struggling to understand how GitHub works.
